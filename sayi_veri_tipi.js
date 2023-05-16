@@ -43,4 +43,5 @@ console.log("2 üzeri 4 =",2 ** 4)
 
 // Aşağı yuvarlama
 
-console.log(Math.floor(254.45)) // Virgülden sonrasını silmek için math.floor kütüphanesini kullanıyoruz
+console.log("Aşağı yuvarlama işlemi = ",Math.floor(254.45)) // Virgülden sonrasını silmek için math.floor kütüphanesini kullanıyoruz
+
