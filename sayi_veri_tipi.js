@@ -43,5 +43,8 @@ console.log("2 üzeri 4 =",2 ** 4)
 
 // Aşağı yuvarlama
 
-console.log("Aşağı yuvarlama işlemi = ",Math.floor(254.45)) // Virgülden sonrasını silmek için math.floor kütüphanesini kullanıyoruz
+console.log("Aşağı yuvarlama işlemi = ",Math.floor(254.45)) // 254 kısmının virgülün altını alıyor
 
+// Yukarı yuvarlama
+
+console.log("Yukarı yuvarlama işlemi = ",Math.ceil(2232.76)) // 2232 kısmını virgülün üstünü alıyor yani 2233
