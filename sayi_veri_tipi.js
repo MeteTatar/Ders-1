@@ -40,3 +40,7 @@ console.log("Kalan sayı = ",15 % 2) // kalan 1 ise tek 0 ise çift
 // Üs aldırma
 
 console.log("2 üzeri 4 =",2 ** 4)
+
+// Aşağı yuvarlama
+
+console.log(Math.floor(254.45)) // Virgülden sonrasını silmek için math.floor kütüphanesini kullanıyoruz
