@@ -48,3 +48,7 @@ console.log("Aşağı yuvarlama işlemi = ",Math.floor(254.45)) // 254 kısmın�
 // Yukarı yuvarlama
 
 console.log("Yukarı yuvarlama işlemi = ",Math.ceil(2232.76)) // 2232 kısmını virgülün üstünü alıyor yani 2233
+
+// En yakına yuvarlama
+
+console.log("Yakın yuvarlama işlemi = ", Math.round(874.99)) // 874 ün virgülden sonra yakın olan tam sayıya yuvarlama
