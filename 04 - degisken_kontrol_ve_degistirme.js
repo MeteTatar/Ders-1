@@ -1,3 +1,5 @@
+// Değişken türü öğrenme
+
 let numara = 123;
 let yazinum = "123";
 let Password = true;
