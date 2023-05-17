@@ -27,3 +27,9 @@ console.log("No 3 = ", no3 , "\nTürü = ", typeof(no3)); // number sadece sayı
 no4 = "356px"
 no4 = parseFloat(no4);
 console.log("No 4 = ", no4 , "\nTürü = ", typeof(no4));
+
+// int'i string'e dönüştürme
+
+no5 = 456;
+no5 = no5.toString();
+console.log("No 5 = " , no5 , "\nTürü = " , typeof(no5));
