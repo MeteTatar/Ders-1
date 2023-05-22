@@ -1,0 +1,1 @@
+// dom ile class bilgisi ekleme veya çıkarma
